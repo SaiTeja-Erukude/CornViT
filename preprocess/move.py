@@ -146,8 +146,8 @@ def copy_n_unique_files(dir1, dir2, output_dir, n):
 #
 ######################
 if __name__ == "__main__":
-    dir1 = "D:/Projects/CornViT/stage3/data/train/up"
-    dir2 = "D:/Projects/CornViT/stage3/data/test/up"
+    dir1 = ""
+    dir2 = ""
     n    = 0
     
     move_n_random_files(dir1, dir2, n)

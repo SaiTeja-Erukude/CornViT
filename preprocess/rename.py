@@ -44,8 +44,8 @@ def rename_files(input_dir: str, word: str, new_word: str = '') -> bool:
 
 
 if __name__ == "__main__":
-    inp_dir = "D:/Projects/CornViT/stage3/data/val/up"
-    word = "broken_"
-    new_word = "up_"
+    inp_dir = ""
+    word = ""
+    new_word = ""
     rename_files(inp_dir, word, new_word)
     

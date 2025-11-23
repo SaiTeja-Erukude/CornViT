@@ -115,6 +115,6 @@ def delete_files_name_contains(dir: str, word: str) -> bool:
 ######################
 if __name__ == "__main__":
     
-    dir1 = "D:/Projects/CornViT/stage3/data/raw/down"
-    dir2 = "D:/Projects/CornViT/stage3/data/test/down"
-    # delete_files(dir1, dir2)
+    dir1 = ""
+    dir2 = ""
+    delete_files(dir1, dir2)
