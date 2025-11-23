@@ -1,0 +1,8 @@
+.venv
+.vscode
+__pycache__
+notes.txt
+data
+raw_data
+nohup.out
+dev
